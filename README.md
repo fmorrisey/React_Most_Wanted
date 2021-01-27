@@ -1,4 +1,4 @@
-# React_Most_Wanted
+# React Most Wanted
 The React Reboot of the classic vanilla JS project.
 ## Getting Started
 
@@ -22,5 +22,5 @@ To stop the services:
 To kill the services:
 
 - `CTRL + C` and then `$ docker compose-down`
-### Project Update:
+## Project Update:
 - 01/27/2021: Project Initiated 
