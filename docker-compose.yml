@@ -1,7 +1,7 @@
 version: '3.7'
 
 services: 
-  react_demo:
+  react_most_wanted:
     build:
       context: .
       dockerfile: Dockerfile
